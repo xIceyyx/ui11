@@ -20,14 +20,14 @@ it("renders correctly", () => {
     }
 
     .c5 {
-      color: rgba(282, 134, 138, 0.25);
+      color: rgba(82, 134, 138, 0.25);
       font-size: 16px;
       font-weight: 600;
       line-height: 1.5;
     }
 
     .c6 {
-      color: rgba(282, 134, 138, 0.25);
+      color: rgba(82, 134, 138, 0.25);
       font-size: 16px;
       font-weight: 400;
       line-height: 1.5;

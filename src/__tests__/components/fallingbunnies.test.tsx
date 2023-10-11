@@ -18,7 +18,7 @@ it("renders correctly", () => {
       -webkit-align-self: center;
       -ms-flex-item-align: center;
       align-self: center;
-      fill: rgba(282, 134, 138, 0.25);
+      fill: rgba(82, 134, 138, 0.25);
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;
