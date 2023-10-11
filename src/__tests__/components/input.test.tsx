@@ -15,7 +15,7 @@ it("renders correctly", () => {
       border: 0;
       border-radius: 16px;
       box-shadow: inset 0px 2px 2px -1px rgba(74,74,104,0.1);
-      color: rgba(255, 145, 38, 0.25);
+      color: rgba(282, 134, 138, 0.25);
       display: block;
       font-size: 16px;
       height: 40px;
