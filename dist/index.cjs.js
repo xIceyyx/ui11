@@ -6252,7 +6252,7 @@ var shadows = {
   active: "0px 0px 0px 1px #0098A1, 0px 0px 4px 8px rgba(31, 199, 212, 0.4)",
   success: "0px 0px 0px 1px #31D0AA, 0px 0px 0px 4px rgba(49, 208, 170, 0.2)",
   warning: "0px 0px 0px 1px #ED4B9E, 0px 0px 0px 4px rgba(237, 75, 158, 0.2)",
-  focus: "0px 0px 0px 1px #ff9126, 0px 0px 0px 4px #ff9126",
+  focus: "0px 0px 0px 1px #52868a, 0px 0px 0px 4px #52868a",
   inset: "inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1)",
 };
 var spacing = [0, 4, 8, 16, 24, 32, 48, 64];
@@ -7718,14 +7718,14 @@ var socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/WoofFinanceGroup",
+        href: "https://t.me/Finance1869",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/wooffinance",
+    href: "https://twitter.com/",
   },
 ];
 var MENU_HEIGHT = 64;
@@ -8113,7 +8113,7 @@ var CakePrice = function (_a) {
     ? React__default["default"].createElement(
         PriceLink,
         {
-          href: "https://dexscreener.com/shibarium/0xbedd8e7680f3a5bcf2493b06fb20f4a1fcd3b24d",
+          href: "https://dexscreener.com",
           target: "_blank",
         },
         React__default["default"].createElement(Icon$V, {
@@ -8984,10 +8984,10 @@ var AccountModal = function (_a) {
         LinkExternal,
         {
           small: true,
-          href: "https://shibariumscan.io/address/" + account,
+          href: "https://blockscout.scroll.io/address/" + account,
           mr: "16px",
         },
-        "View on ShibariumScan"
+        "View on ScrollScan"
       ),
       React__default["default"].createElement(
         CopyToClipboard,
@@ -9461,10 +9461,10 @@ var templateObject_1;
 
 var baseColors = {
   failure: "#ED4B9E",
-  primary: "#ff9126",
+  primary: "#52868a",
   primaryBright: "#31b3f7",
   primaryDark: "#024179",
-  secondary: "#ff9126",
+  secondary: "#52868a",
   success: "#31D0AA",
   warning: "#FFB237",
 };
@@ -9476,14 +9476,14 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   backgroundDisabled: "#E9EAEB",
   backgroundAlt: "#FFFFFF",
   contrast: "#191326",
-  dropdown: "#121212",
+  dropdown: "#190602",
   invertedContrast: "#FFFFFF",
   input: "#eeeaf4",
   inputSecondary: "#d7caec",
   tertiary: "#EFF4F5",
-  text: "#ff9126",
+  text: "#52868a",
   textDisabled: "#BDC2C4",
-  textSubtle: "#ff9126",
+  textSubtle: "#52868a",
   borderColor: "#E9EAEB",
   gradients: {
     bubblegum:
@@ -9495,20 +9495,20 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   },
 });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), {
-  secondary: "#ff9126",
+  secondary: "#52868a",
   background: "#353547",
   backgroundDisabled: "#3c3742",
-  backgroundAlt: "#121212",
+  backgroundAlt: "#190602",
   contrast: "#FFFFFF",
   dropdown: "#1E1D20",
   invertedContrast: "#191326",
-  input: "#121212",
-  inputSecondary: "#ff9126",
+  input: "#190602",
+  inputSecondary: "#52868a",
   primaryDark: "#0098A1",
   tertiary: "#353547",
-  text: "#e2effc",
+  text: "#ffeeda",
   textDisabled: "#666171",
-  textSubtle: "#ff9126",
+  textSubtle: "#52868a",
   borderColor: "#524B63",
   gradients: {
     bubblegum:
@@ -9516,7 +9516,7 @@ var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), {
     cardHeader: "linear-gradient(166.77deg, #3B4155 0%, #3A3045 100%)",
     blue: "linear-gradient(180deg, #00707F 0%, #19778C 100%)",
     violet: "linear-gradient(180deg, #6C4999 0%, #6D4DB2 100%)",
-    violetAlt: "linear-gradient(180deg, #434575 0%, #ff9126 100%)",
+    violetAlt: "linear-gradient(180deg, #434575 0%, #52868a 100%)",
   },
 });
 

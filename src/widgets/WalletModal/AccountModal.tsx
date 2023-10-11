@@ -23,8 +23,8 @@ const AccountModal: React.FC<Props> = ({ account, logout, onDismiss = () => null
       {account}
     </Text>
     <Flex mb="32px">
-      <LinkExternal small href={`https://shibariumscan.io/address/${account}`} mr="16px">
-        View on ShibariumScan
+      <LinkExternal small href={`https://blockscout.scroll.io/address/${account}`} mr="16px">
+        View on ScrollScan
       </LinkExternal>
       <CopyToClipboard toCopy={account}>Copy Address</CopyToClipboard>
     </Flex>
